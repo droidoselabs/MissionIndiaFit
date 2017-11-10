@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "81394772823",
+    "firebase_url": "https://indiafit-42eb7.firebaseio.com",
+    "project_id": "indiafit-42eb7",
+    "storage_bucket": "indiafit-42eb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81394772823:android:757feaa34888fb4e",
+        "android_client_info": {
+          "package_name": "in.droidose.mif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81394772823-n8lr2l17sck0ur71rfhbr648bf7nacei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJhvAKL1MbBU8V7HH43IxFXlz95eUola0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
